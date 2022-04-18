@@ -188,3 +188,7 @@ console.log(inventory.filter(a => a.sold === a.originalStock));
 // return de waarde van elke a.options.ambiLight.
 console.log(inventory.filter(a => a.options.ambiLight));
 
+//2a.
+let totalSold = 0;
+
+
